@@ -1,3 +1,3 @@
 # hello-world
-myname : Krahyor
+my-name : Krahyor/n
 This is my Github 
